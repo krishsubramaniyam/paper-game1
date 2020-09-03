@@ -1,1 +1,2 @@
-# paper-game1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
